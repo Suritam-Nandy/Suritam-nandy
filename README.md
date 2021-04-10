@@ -25,3 +25,12 @@ Here are some ideas to get you started:
 <br />
 
 [website]: https://suritam.tech/
+
+<!-- [course]: http://vsCodeHero.com -->
+
+[twitter]: https://twitter.com/NandySuritam
+
+<!-- [youtube]: https://youtube.com/codeSTACKr -->
+
+[instagram]: https://www.instagram.com/suritam_nandy/
+[linkedin]: https://www.linkedin.com/in/suritam-nandy-74952718b/
