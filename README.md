@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m cusdsrrently working at a startup as an intern.
+- 🔭 I’m currently working at a startup as an intern.
 - 🌱 I’m learning Flask 🤣
 - 👯 I’m looking to collaborate on any projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
