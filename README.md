@@ -1,4 +1,4 @@
-### Hey there, I'm [Suritam][website] 👋
+### Hey there, I'm [Suritam]([website]) 👋
 
 <!--
 **Suritam-Nandy/Suritam-nandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://suritam.tech/
