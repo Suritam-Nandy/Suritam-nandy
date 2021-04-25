@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at a startup as an intern.
 - 🌱 I’m learning Flask 🤣
 - 👯 I’m looking to collaborate on any projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [MAIL](13suritsuriam@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: neither do I like taking exams
