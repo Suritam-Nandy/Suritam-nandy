@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Suritam</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suritam-nandy" alt="gargakshit" /> </p>
@@ -16,26 +14,11 @@
 
 <br />
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img align="center" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
+[<img align="center" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ![Suritam's github stats](https://github-readme-stats.vercel.app/api?username=suritam-nandy&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suritam-nandy&layout=compact&theme=radical)](https://github.com/suritam-nandy/github-readme-stats)
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suritam-nandy&theme=radical" alt="suritam-nandy" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
