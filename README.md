@@ -23,8 +23,8 @@
 
 
 ![Suritam's github stats](https://github-readme-stats.vercel.app/api?username=suritam-nandy&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suritam-nandy&layout=compact)](https://github.com/suritam-nandy/github-readme-stats)
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suritam-nandy&" alt="suritam-nandy" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suritam-nandy&layout=compact&theme=radical)](https://github.com/suritam-nandy/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suritam-nandy&theme=radical" alt="suritam-nandy" /></p>
 
 
 
