@@ -6,7 +6,7 @@
 - 🌱 I’m learning Flask 🤣
 - 👯 I’m looking to collaborate on any projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [MAIL](mailto: 13suritsuritam@gmail.com)
+- 📫 How to reach me: 13suritsuritam@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: neither do I like taking exams
 
