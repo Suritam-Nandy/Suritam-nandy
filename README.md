@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at a startup as an intern.
 - 🌱 I’m learning Flask 
-- 👯 I’m looking to collaborate on any projects
+- 👯 I’m looking to collaborate on projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: 13suritsuritam@gmail.com
 - 😄 Pronouns: He/Him/His
