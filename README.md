@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suritam-nandy" alt="gargakshit" /> </p>
 
-- 🔭 I’m currently looking for internship.
-- 🌱 I’m learning Flask 
+- 🔭 I’m working as an Intern.
+- 🌱 I’m learning Redux 
 - 👯 I’m looking to collaborate on projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: 13suritsuritam@gmail.com
