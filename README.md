@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suritam-nandy" alt="gargakshit" /> </p>
 
 <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/4413821b0f22404c9a65b9723f160b08.png?r=70p" />
+
 - 🔭 I’m working as an Full Stack Intern.
 - 🌱 I’m learning Solidity 
 - 👯 I’m looking to collaborate on Blockchain projects
