@@ -7,12 +7,13 @@
 - 🌱 I’m learning Solidity 
 - 👯 I’m looking to collaborate on Blockchain projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Web Development
 - 📫 How to reach me: 13suritsuritam@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: neither do I like taking exams
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/suritam-nandy-74952718b) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/suritam_nandy) [<img src = "https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/nandysuritam)
-
+</br>
 
 
 <!-- ### Spotify Playing 🎧
